@@ -7,5 +7,19 @@
 
 <!-- Github Stats -->
 
-[![LuoHui's GitHub stats](https://github-readme-stats.vercel.app/api?username=luohu1&show_icons=true&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luohu1&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&langs_count=10&include_all_commits=true&card_width=480)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      style="height: 195px; width: 495px; object-fit: cover"
+      src="https://github-readme-stats.vercel.app/api?username=luohu1&show_icons=true&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+      alt="LuoHui's GitHub stats"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      style="height: 195px; width: 495px; object-fit: cover"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luohu1&theme=onedark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&langs_count=10&include_all_commits=true&card_width=495"
+      alt="Most Used Languages"
+    />
+  </a>
+</div>
